@@ -15,6 +15,21 @@ const data = [
   // ======================== <Your name> Profile ENDS ==========================
 
   // Copy the above template and paste it below this line
+
+  // ======================== Preet Profile STARTS ========================
+  {
+    id: 1,
+    name: "Preet Sojitra",
+    branch: "Computer Science",
+    introduction: "I am Preet Sojitra.",
+    skills: ["React", "JavaScript"],
+    socialsHandles: {
+      github: "Preet-Sojitra",
+      twitter: "Preet-Sojitra03",
+      linkedin: "preet-sojitra",
+    },
+  },
+  // ======================== Preet Profile ENDS ==========================
 ]
 
 // To be used later
