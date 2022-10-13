@@ -37,6 +37,8 @@ Below is the sample of code that you will be contributing.
 
 7. Then add your `name,branch, small introduction, 2-3 skills and your social handles.
 
+> Dont forget to change the "id" key for your profile. It should be the successor number of the previous profile.
+
 8. Create your branch
 
    ```bash
@@ -72,3 +74,19 @@ Replace `your-branch-name` with the branch name that you have created.
     ```bash
     git push origin your-branch-name
     ```
+
+12. Now head to your fork in the github. You will see something like this
+
+<img src="images/prBtn.jpg" />
+
+13. Click on `Compare & pull request`.
+
+14. After clicking you will see something like this
+
+<img src="images/createPR.jpg" />
+
+15. Click on `Create Pull request` button.
+
+16. Wohhooo!! You've made it. You have created your first pull request. Reviewers will now review your code and will merge your code.
+
+17. Celebrate your merge by tagging dsc-pdeu on socials.
