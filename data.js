@@ -21,7 +21,8 @@ const data = [
     id: 1,
     name: "Preet Sojitra",
     branch: "Computer Science",
-    introduction: "I am Preet Sojitra. I am frontend developer.",
+    introduction:
+      "I am Preet Sojitra. I am frontend developer. I loves to code",
     skills: ["React", "JavaScript"],
     socialsHandles: {
       github: "Preet-Sojitra",
