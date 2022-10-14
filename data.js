@@ -28,6 +28,7 @@ const data1 = [
       github: "https://github.com/PrakharKachoriya",
       twitter: "https://twitter.com/stfukachori",
       linkedin: "https://www.linkedin.com/in/prakhar-kachoriya-9464a323a",
+      
     },
   },
 ]
