@@ -15,6 +15,18 @@ const data = [
   // ======================== <Your name> Profile ENDS ==========================
 
   // Copy the above template and paste it below this line
+  {
+    id: 0,
+    name: "Shreya Shah",
+    branch: "CSE",
+    introduction: "I am shreya shah",
+    skills: ["code", "playing", "studying"],
+    socialsHandles: {
+      github: "shreyashah15",
+      twitter: "",
+      linkedin: "",
+    },
+  },
 ]
 
 // To be used later
