@@ -12,6 +12,18 @@ const data = [
       linkedin: "add your linkedin handle",
     },
   },
+  {
+    id: 1,
+    name: "Hrishikesh",
+    branch: "Computer Sciences and Engineering",
+    introduction: "Hello bruh. I am such a collest niceset person uk, hehehehee",
+    skills: ["Jod", "Sage main", "Have fun kids"],
+    socialsHandles: {
+      github: "https://github.com/hrishi-008",
+      twitter: "i dont have twitter bruhh",
+      linkedin: "https://www.linkedin.com/in/hrishk/",
+    },
+  },
   // ======================== <Your name> Profile ENDS ==========================
 
   // Copy the above template and paste it below this line
