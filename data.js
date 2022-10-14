@@ -19,7 +19,7 @@ const data = [
 
 ======================== Shivam Manoj Jadhav Profile STARTS ========================
   {
-    id: _,
+    id: 1,
     name: "Shivam Manoj Jadhav",
     branch: "EE",
     introduction: "Hi Shivam here. I am from EE'22. I like to spend most of my time reading fictional books but other than that I also like to listen to music, doodle, play Subway Surfers and swim.",
