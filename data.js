@@ -26,8 +26,21 @@ const data = [
         twitter: "add your twitter handle",
         linkedin: "add your linkedin handle",
       },
+      },
+  {
+    id: 0,
+    name: "Dinky Unadkat",
+    branch: "CSE 21",
+    introduction: "add your small introduction",
+    skills: ["Graphic Design", "C++", "Python"],
+    socialsHandles: {
+      github: "https://github.com/DinkyU",
+      twitter: "N/A",
+      linkedin: "Dinky Unadkat",
+    },
   },
 ]
 
 // To be used later
 export default data
+
