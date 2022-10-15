@@ -15,7 +15,20 @@ const data = [
   // ======================== <Your name> Profile ENDS ==========================
 
   // Copy the above template and paste it below this line
+  {
+    id: 0,
+    name: "Dinky Unadkat",
+    branch: "CSE 21",
+    introduction: "add your small introduction",
+    skills: ["Graphic Design", "C++", "Python"],
+    socialsHandles: {
+      github: "https://github.com/DinkyU",
+      twitter: "N/A",
+      linkedin: "Dinky Unadkat",
+    },
+  },
 ]
 
 // To be used later
 export default data
+
