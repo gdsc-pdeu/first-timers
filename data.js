@@ -41,6 +41,21 @@ const data = [
   },
 ]
 
+======================== Shivam Manoj Jadhav Profile STARTS ========================
+  {
+    id: 1,
+    name: "Shivam Manoj Jadhav",
+    branch: "EE",
+    introduction: "Hi Shivam here. I am from EE'22. I like to spend most of my time reading fictional books but other than that I also like to listen to music, doodle, play Subway Surfers and swim.",
+    skills: ["Teamworker", "Good at verbal and written communication"],
+    socialsHandles: {
+      github: "SJ-2004",
+      twitter: "@heyiaintabot",
+      linkedin: "Shivam Jadhav",
+    },
+  },
+// ======================== <Your name> Profile ENDS ==========================
+
 // To be used later
 export default data
 
