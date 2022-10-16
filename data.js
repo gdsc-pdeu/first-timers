@@ -39,6 +39,18 @@ const data = [
       linkedin: "Dinky Unadkat",
     },
   },
+  {
+    id: 3,
+    name: "kaushik jain",
+    branch: "cse",
+    introduction: "Hey i am kaushik jain , open source and remote work enthusiast",
+    skills: ["add your skills", "java", "html"],
+    socialsHandles: {
+      github: "https://github.com/kaushikjaincodes",
+      twitter: "https://twitter.com/Kaushikjain2266",
+      linkedin: "https://www.linkedin.com/in/kaushik-jain-148366252",
+    },
+  },
 ]
 
 // To be used later
