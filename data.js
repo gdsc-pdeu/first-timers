@@ -57,6 +57,23 @@ const data = [
 
 ]
 
+const data1 = [
+  {
+    id: 1,
+    name: "Prakhar Kachoriya",
+    branch: "ICT",
+    introduction: "Hey! This is Prakhar",
+    skills: ["Hacking", "Coding", "Open Source"],
+    socialsHandles: {
+      github: "https://github.com/PrakharKachoriya",
+      twitter: "https://twitter.com/stfukachori",
+      linkedin: "https://www.linkedin.com/in/prakhar-kachoriya-9464a323a",
+      
+    },
+  },
+]
+
+
 // To be used later
 export default data
 
