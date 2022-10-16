@@ -22,7 +22,7 @@ const data = [
     id: 1,
     name: "Shivam Manoj Jadhav",
     branch: "EE",
-    introduction: "Hi Shivam here. I am from EE'22.",
+    introduction: "Hi, Shivam here! I am from EE'22.",
     skills: ["Teamworker", "Good at verbal and written communication"],
     socialsHandles: {
       github: "SJ-2004",
