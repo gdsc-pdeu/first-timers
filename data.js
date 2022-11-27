@@ -15,6 +15,17 @@ const data = [
   // ======================== <Your name> Profile ENDS ==========================
 
   // Copy the above template and paste it below this line
+  {
+    id: 1,
+    name: "Rajat Agrawal",
+    branch: "Computer Engineering",
+    introduction: "Hi I am B-Tech Student from Ahmedabad and i like coding",
+    skills: ["C programming", "Python", "Communication"],
+    socialsHandles: {
+      github: "https://github.com/RajatAgrawal117",
+      twitter: "https://twitter.com/RajatAg33322394",
+      linkedin: "https://www.linkedin.com/in/rajat-agrawal-piyushkumar/",
+    },
 ]
 
 // To be used later
