@@ -1,20 +1,18 @@
 const data = [
+
+  // Copy the above template and paste it below this line
   // ======================== <Your name> Profile STARTS ========================
   {
-    id: 0,
-    name: "add your name",
-    branch: "add your branch",
-    introduction: "add your small introduction",
-    skills: ["add your skills", "skill1", "skill2"],
+    id: 2,
+    name: "Leith Atia",
+    branch: "Still figuring it out",
+    introduction: "When I'm not dreaming of soaring above the clouds as an aviation geek, I'm strumming my ukulele, making the world a better place one chord at a time. And yes, I can code too.",
+    skills: ["JavaScript", "C#", "Sound Design"],
     socialsHandles: {
-      github: "add your github handle",
-      twitter: "add your twitter handle",
-      linkedin: "add your linkedin handle",
+      github: "https://github.com/leithatia"
     },
   },
   // ======================== <Your name> Profile ENDS ==========================
-
-  // Copy the above template and paste it below this line
   {
     id: 1,
     name: "Om shah",
@@ -59,4 +57,3 @@ const data = [
 
 // To be used later
 export default data
-
