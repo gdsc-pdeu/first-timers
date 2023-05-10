@@ -53,7 +53,19 @@ const data = [
       linkedin: "https://www.linkedin.com/in/rajrandive14/",
     },
   },
-
+//========================================================================================
+ {
+    id: 18,
+    name: "Sai Deva Harsha",
+    branch: "Computer Science and Engineering",
+    introduction: "Hey There!, I am Sai Deva Harsha, DevOps Engineer and open-source enthusiast",
+    skills: ["C", "Java", "SQL", "Docker", "Linux", "Python"],
+    socialsHandles: {
+      github: "https://github.com/SaiDevaHarshaR",
+      twitter: "https://twitter.com/SaiDeva",
+      linkedin: "https://www.linkedin.com/in/SaiDevaHarsha/",
+    },
+  },
 
 ]
 
