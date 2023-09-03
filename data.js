@@ -13,7 +13,18 @@ const data = [
     },
   },
   // ======================== <Your name> Profile ENDS ==========================
-
+  {
+    id: 0.1,
+    name: "Laith",
+    branch: "Laith",
+    introduction: "Student",
+    skills: ["Friendly"],
+    socialsHandles: {
+      github: "https://github.com/laith2026",
+      twitter: "Dont have",
+      linkedin: "Donnt have",
+    },
+  },
   // Copy the above template and paste it below this line
   {
     id: 1,
