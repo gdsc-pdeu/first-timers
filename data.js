@@ -1,15 +1,15 @@
 const data = [
   // ======================== <Your name> Profile STARTS ========================
   {
-    id: 0,
-    name: "add your name",
-    branch: "add your branch",
-    introduction: "add your small introduction",
-    skills: ["add your skills", "skill1", "skill2"],
+    id: 14,
+    name: "Nichelle Barton",
+    branch: "nbarton76/first-timers",
+    introduction: "I am a student with LaunchCode and I am learning to code. I am excited to be a part of this community and to learn from others.",
+    skills: ["css", "html", "javascript", "java", "mysql"],
     socialsHandles: {
-      github: "add your github handle",
-      twitter: "add your twitter handle",
-      linkedin: "add your linkedin handle",
+      github: "https://github.com/nbarton76",
+      twitter: "https://twitter.com/psych_supreme",
+      linkedin: "https://www.linkedin.com/in/nichelle-barton-54676426/",
     },
   },
   // ======================== <Your name> Profile ENDS ==========================
@@ -54,7 +54,18 @@ const data = [
     },
   },
 
-
+  {
+    id: 14,
+    name: "Nichelle Barton",
+    branch: "nbarton76/first-timers",
+    introduction: "I am a student with LaunchCode and I am learning to code. I am excited to be a part of this community and to learn from others.",
+    skills: ["css", "html", "javascript", "java", "mysql"],
+    socialsHandles: {
+      github: "https://github.com/nbarton76",
+      twitter: "https://twitter.com/psych_supreme",
+      linkedin: "https://www.linkedin.com/in/nichelle-barton-54676426/",
+    },
+  },
 ]
 
 // To be used later
