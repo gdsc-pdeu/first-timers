@@ -27,7 +27,18 @@ const data = [
       linkedin: "add your linkedin handle",
     },
   },
-
+  {
+    id: 2,
+    name: "kollepara Naga Satya Madhu Pavan ",
+    branch: "CSE(AI&ML)",
+    introduction: "I am currently studying as a stuent at GVPCE",
+    skills: ["C/C++", "Python", "HTML","JavaScript"],
+    socialsHandles: {
+      github: "https://github.com/kolleparapavan",
+      twitter: "add your twitter handle",
+      linkedin: "https://www.linkedin.com/in/k-madhu-pavan-429697291",
+    },
+  },
   {
     id: 0,
     name: "Dinky Unadkat",

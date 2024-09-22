@@ -59,7 +59,7 @@ Replace `your-branch-name` with the branch name that you have created.
 
 9. Add your changes to staging area
 
-   ```bash
+   ```bash 
    git add data.js
    ```
 
