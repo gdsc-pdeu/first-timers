@@ -54,6 +54,17 @@ const data = [
     },
   },
 
+   {
+    id: 3,
+    name: "Moksha",
+    branch: "AI-DS",
+    introduction: "Hi! I'm excited to learn with you guys1",
+    skills: ["c", "python", "java", "sql", "html"],
+    socialsHandles: {
+      github: "https://github.com/Moksha0o0",
+    },
+  },
+
 
 ]
 
